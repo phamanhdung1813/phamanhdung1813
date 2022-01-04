@@ -8,6 +8,5 @@
 
 [website]: https://google.com
 [linkedin]: https://www.linkedin.com/in/anh-dung-pham-38830b1a6/
-[gmail]: phamanhdung1813@gmail.com
-
+[gmail]: https://www.linkedin.com/in/anh-dung-pham-38830b1a6/
 
