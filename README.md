@@ -27,7 +27,6 @@
 <img align="left" alt="springcloud" height="35px" width="30px" src="https://nirajsonawane.github.io/asset/icon-spring-cloud.svg" />
 <img align="left" alt="reactjs" height="35px" width="30px" src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" />
 <img align="left" alt="mysql" height="35px" width="30px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
-<br />
 
 <img align="left" alt="github" height="35px" width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 <img align="left" alt="docker" height="35px" width="30px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" />
