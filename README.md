@@ -21,10 +21,9 @@
 <img align="left" alt="springcloud" height="35px" width="30px" src="https://i2.wp.com/e4developer.com/wp-content/uploads/2018/01/spring-cloud-logo.png?resize=800%2C753&ssl=1" />
 <img align="left" alt="reactjs" height="35px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />
 <img align="left" alt="mysql" height="35px" width="30px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
-<img align="left" alt="html5" height="35px" width="30px" src="https://www.pngkit.com/png/detail/231-2316751_database-database-icon-png.png" />
 <img align="left" alt="github" height="35px" width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 <img align="left" alt="docker" height="35px" width="30px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" />
-<img align="left" alt="docker" height="35px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" />
+<img align="left" alt="kubernetes" height="35px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" />
 
 <img align="left" alt="aws" height="35px" width="30px" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" />
 <img align="left" alt="azure" height="35px" width="30px" src="https://swimburger.net/media/0zcpmk1b/azure.jpg" />
