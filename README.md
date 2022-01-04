@@ -16,7 +16,7 @@
 <img align="left" alt="javascript" height="35px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 <img align="left" alt="python" height="35px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/600px-Python_logo_01.svg.png" />
 <img align="left" alt="springboot" height="35px" width="30px" src="https://turreta.com/wp-content/uploads/2017/01/spring-boot-project-logo.png" />
-<img align="left" alt="springmvc" height="35px" width="30px" src="https://miro.medium.com/max/624/1*dwa1SCG85BAzQttURVUvrA.png" />
+<img align="left" alt="springmvc" height="35px" width="30px" src="https://gillesfiguiere.com/img/spring-boot.svg" />
 <img align="left" alt="springsecurity" height="35px" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkyN41-wWVbTmbITBIy52nJHLpP8wNcpuf0mOEM5Sz_6yVTy9jTlOGA4sCaySUyrK5Yqo&usqp=CAU" />
 <img align="left" alt="springcloud" height="35px" width="30px" src="https://i2.wp.com/e4developer.com/wp-content/uploads/2018/01/spring-cloud-logo.png?resize=800%2C753&ssl=1" />
 <img align="left" alt="reactjs" height="35px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />
