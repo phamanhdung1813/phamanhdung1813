@@ -34,7 +34,7 @@
 <img align="left" alt="vscode" height="35px" width="30px" src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" />
 <img align="left" alt="vscode" height="35px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" />
 
-<img align="left" alt="vscode" height="35px" width="30px" src="https://www.clipartmax.com/png/middle/195-1955230_cloud-gateway-spring-cloud-contract-logo.png" />
+<img align="left" alt="vscode" height="35px" width="30px" src="https://nirajsonawane.github.io/asset/icon-spring-cloud.svg" />
 
 
 
