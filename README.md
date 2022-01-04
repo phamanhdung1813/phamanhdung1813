@@ -15,7 +15,7 @@
 <img align="left" alt="html5" height="35px" width="30px" src="https://continuecoding.com/wp-content/uploads/2020/04/java-eps-vector-logo.png" />
 <img align="left" alt="html5" height="35px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 <img align="left" alt="html5" height="35px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/600px-Python_logo_01.svg.png" />
-<img align="left" alt="html5" height="35px" width="30px" src="https://bgasparotto.com/wp-content/uploads/2017/12/spring-boot-logo.png" />
+<img align="left" alt="html5" height="35px" width="30px" src="https://turreta.com/wp-content/uploads/2017/01/spring-boot-project-logo.png" />
 <img align="left" alt="html5" height="35px" width="30px" src="https://miro.medium.com/max/624/1*dwa1SCG85BAzQttURVUvrA.png" />
 <img align="left" alt="html5" height="35px" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkyN41-wWVbTmbITBIy52nJHLpP8wNcpuf0mOEM5Sz_6yVTy9jTlOGA4sCaySUyrK5Yqo&usqp=CAU" />
 
