@@ -1,6 +1,6 @@
 ## Hi there !!! 👋 My name is Anh Dung Pham, I'm 21 years old, I was born in Viet Nam and currently living in Toronto, Canada
 
-## 📫 Connect with me:
+## Connect with me:
 
 [<img align="left" alt="website" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/1024px-Globe_icon.svg.png" />][website]
 [<img align="left" alt="gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
@@ -16,7 +16,7 @@
 <br />
 <br />
 
-## 👨🏾‍💻 Languages and Tools:
+## Languages and Tools:
 <img align="left" alt="java" height="35px" width="30px" src="https://continuecoding.com/wp-content/uploads/2020/04/java-eps-vector-logo.png" />
 <img align="left" alt="javascript" height="35px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 <img align="left" alt="python" height="35px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/600px-Python_logo_01.svg.png" />
@@ -37,12 +37,3 @@
 <img align="left" alt="azure" height="35px" width="30px" src="https://swimburger.net/media/0zcpmk1b/azure.jpg" />
 
 <img align="left" alt="intellij" height="35px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" />
-
-
-
-
-
-
-
-
-
