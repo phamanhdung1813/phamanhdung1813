@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there !!! 👋 
+### My name is Anh Dung Pham, Im 21 years old, I was born in Viet Nam and currently living in Toronto, Canada
 
 <!--
 **phamanhdung1813/phamanhdung1813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
