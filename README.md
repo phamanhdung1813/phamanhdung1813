@@ -10,11 +10,15 @@
 [gmail]: mailto:phamanhdung1813@gmail.com
 [linkedin]: https://www.linkedin.com/in/anh-dung-pham-38830b1a6/
 <br />
-<br />
 
-### Languages
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+### Languages and Tools
+<img align="left" alt="html5" width="28px" src="https://continuecoding.com/wp-content/uploads/2020/04/java-eps-vector-logo.png" />
+<img align="left" alt="html5" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
+<img align="left" alt="html5" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/600px-Python_logo_01.svg.png" />
+<img align="left" alt="html5" width="28px" src="https://bgasparotto.com/wp-content/uploads/2017/12/spring-boot-logo.png" />
+<img align="left" alt="html5" width="28px" src="https://miro.medium.com/max/624/1*dwa1SCG85BAzQttURVUvrA.png" />
+<img align="left" alt="html5" width="28px" src="https://pbs.twimg.com/profile_images/1235983944463585281/AWCKLiJh_400x400.png" />
 
-### Tools
+
 
 
