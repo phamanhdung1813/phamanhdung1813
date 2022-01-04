@@ -2,13 +2,17 @@
 
 ### Connect with me:
 
-[<img align="left" alt="website" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/1024px-Globe_icon.svg.png" />][website]
-[<img align="left" alt="gmail" width="25px" src="https://w7.pngwing.com/pngs/298/243/png-transparent-email-address-computer-icons-mail-miscellaneous-angle-triangle.png" />][gmail]
-[<img align="left" alt="linkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="website" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/1024px-Globe_icon.svg.png" />][website]
+[<img align="left" alt="gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="linkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 
 [website]: https://stanleypham.com
 [gmail]: mailto:phamanhdung1813@gmail.com
 [linkedin]: https://www.linkedin.com/in/anh-dung-pham-38830b1a6/
+[instagram]: https://www.instagram.com/adphmm/
+[facebook]: https://www.facebook.com/anhdung.pham.1318
 <br />
 
 ### Languages and Tools
