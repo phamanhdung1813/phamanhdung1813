@@ -3,9 +3,9 @@
 ## Connect with me:
 
 [<img align="left" alt="website" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/1024px-Globe_icon.svg.png" />][website]
-[<img align="left" alt="gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
-[<img align="left" alt="linkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />][gmail]
+[<img align="left" alt="linkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />][instagram]
 [<img align="left" alt="facebook" width="30px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
 
 [website]: https://stanleypham.com
