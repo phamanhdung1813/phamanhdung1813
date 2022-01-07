@@ -6,7 +6,7 @@
 [<img align="left" alt="gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="linkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="facebook" width="30px" src="https://www.mexbs.com/pub/media/wysiwyg/facebook-icon.jpg" />][facebook]
+[<img align="left" alt="facebook" width="30px" src="https://www.criminalthinking.net/wp-content/uploads/2017/06/fb-logo.png" />][facebook]
 
 [website]: https://stanleypham.com
 [gmail]: mailto:phamanhdung1813@gmail.com
