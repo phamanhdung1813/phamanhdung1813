@@ -37,6 +37,8 @@
 <img align="left" alt="azure" height="35px" width="30px" src="https://swimburger.net/media/0zcpmk1b/azure.jpg" />
 
 <img align="left" alt="intellij" height="35px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" />
+<br />
+<br />
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamanhdung1813&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
