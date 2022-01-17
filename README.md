@@ -42,4 +42,4 @@
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phamanhdung1813&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamanhdung1813&layout=compact&exclude_repo=anhdungpham-portfolio)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamanhdung1813&layout=compact&exclude_repo=anhdungpham-portfolio&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
