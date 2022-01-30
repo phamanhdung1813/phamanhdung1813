@@ -16,7 +16,7 @@
 <br />
 
 ## Languages and Tools:
-<img align="left" alt="java" height="35px" width="30px" src="https://www.probytes.net/wp-content/uploads/2018/07/java-logo-vector-768x768.png" />
+<img align="left" alt="java" height="35px" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHxrM1I1uGSjnBxbdOawmJoYLCfJKvv-JHih7aysbSVWRb0iE197cyVd-fQygQ_98WGLU&usqp=CAU" />
 <img align="left" alt="javascript" height="35px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 <img align="left" alt="python" height="35px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/600px-Python_logo_01.svg.png" />
 
