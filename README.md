@@ -21,8 +21,8 @@
 <img align="left" alt="python" height="35px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/600px-Python_logo_01.svg.png" />
 
 <img align="left" alt="springboot" height="35px" width="30px" src="https://turreta.com/wp-content/uploads/2017/01/spring-boot-project-logo.png" />
-<img align="left" alt="springmvc" height="35px" width="30px" src="https://gillesfiguiere.com/img/spring-boot.svg" />
-<img align="left" alt="springmvc" height="35px" width="30px" src="https://img.stackshare.io/service/2006/spring-framework-project-logo.png" />
+<img align="left" alt="springmvc" height="35px" width="30px" src="https://img.stackshare.io/service/5493/wbCRW-u6_400x400.png" />
+<img align="left" alt="springfw" height="35px" width="30px" src="https://img.stackshare.io/service/2006/spring-framework-project-logo.png" />
 <img align="left" alt="springsecurity" height="35px" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkyN41-wWVbTmbITBIy52nJHLpP8wNcpuf0mOEM5Sz_6yVTy9jTlOGA4sCaySUyrK5Yqo&usqp=CAU" />
 <img align="left" alt="springcloud" height="35px" width="30px" src="https://nirajsonawane.github.io/asset/icon-spring-cloud.svg" />
 <img align="left" alt="reactjs" height="35px" width="30px" src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" />
@@ -34,7 +34,6 @@
 <img align="left" alt="jenkins" height="35px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
 
 <img align="left" alt="aws" height="35px" width="30px" src="https://www.laurel-group.com/wp-content/uploads/AWS-logo.png" />
-<img align="left" alt="azure" height="35px" width="30px" src="https://swimburger.net/media/0zcpmk1b/azure.jpg" />
 
 <img align="left" alt="intellij" height="35px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" />
 <br />
