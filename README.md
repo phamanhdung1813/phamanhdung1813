@@ -25,7 +25,7 @@
 <img align="left" alt="springfw" height="35px" width="30px" src="https://img.stackshare.io/service/2006/spring-framework-project-logo.png" />
 <img align="left" alt="springsecurity" height="35px" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkyN41-wWVbTmbITBIy52nJHLpP8wNcpuf0mOEM5Sz_6yVTy9jTlOGA4sCaySUyrK5Yqo&usqp=CAU" />
 <img align="left" alt="springcloud" height="35px" width="30px" src="https://nirajsonawane.github.io/asset/icon-spring-cloud.svg" />
-<img align="left" alt="reactjs" height="35px" width="30px" src="https://www.vhv.rs/dpng/d/524-5245981_react-js-logo-png-transparent-png-download.png" />
+<img align="left" alt="reactjs" height="35px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
 <img align="left" alt="mysql" height="35px" width="30px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
 
 <img align="left" alt="github" height="35px" width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
