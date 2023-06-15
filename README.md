@@ -20,7 +20,7 @@
 <img align="left" alt="javascript" height="35px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 <img align="left" alt="python" height="35px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/600px-Python_logo_01.svg.png" />
 
-<img align="left" alt="springboot" height="35px" width="30px" src="[https://turreta.com/wp-content/uploads/2017/01/spring-boot-project-logo.png](https://i0.wp.com/indiciatraining.com/wp-content/uploads/2020/05/spring-boot-logo.png?\fit=800%2C718&ssl=1)" />
+<img align="left" alt="springboot" height="35px" width="30px" src="https://i0.wp.com/indiciatraining.com/wp-content/uploads/2020/05/spring-boot-logo.png?fit=800%2C718&ssl=1" />
 <img align="left" alt="springmvc" height="35px" width="30px" src="https://img.stackshare.io/service/5493/wbCRW-u6_400x400.png" />
 <img align="left" alt="springfw" height="35px" width="30px" src="https://img.stackshare.io/service/2006/spring-framework-project-logo.png" />
 <img align="left" alt="springsecurity" height="35px" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkyN41-wWVbTmbITBIy52nJHLpP8wNcpuf0mOEM5Sz_6yVTy9jTlOGA4sCaySUyrK5Yqo&usqp=CAU" />
