@@ -1,7 +1,6 @@
-## Hi there !!! 👋 My name is Anh Dung Pham, I'm 21 years old, I was born in Viet Nam and I'm currently living in Toronto, Canada
-
+## Hi there !!! 👋 My name is Anh Dung Pham, I'm 24 years old, I was born in Viet Nam and I'm currently living in Toronto, Canada
 ## Connect with me:
-[<img align="left" alt="website" width="30px" src="https://icons-for-free.com/iconfiles/png/512/high+quality+social+social+media+square+website+www+icon-1320192619856305568.png" />][website]
+[<img align="left" alt="website" width="30px" src="https://png.pngtree.com/png-vector/20190115/ourmid/pngtree-vector-web-icon-png-image_320925.jpg" />][website]
 [<img align="left" alt="gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />][gmail]
 [<img align="left" alt="linkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />][instagram]
