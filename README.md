@@ -15,8 +15,12 @@
 <br />
 
 ## Languages and Tools:
+
+
 <img align="left" alt="java" height="35px" width="30px" src="https://its.inside.tru.ca/files/2013/02/java.png" />
 <img align="left" alt="javascript" height="35px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
+<img align="left" alt="typescript" height="35px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
+<img align="left" alt="typescript" height="35px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />
 <img align="left" alt="python" height="35px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/600px-Python_logo_01.svg.png" />
 
 <img align="left" alt="springboot" height="35px" width="30px" src="https://i0.wp.com/indiciatraining.com/wp-content/uploads/2020/05/spring-boot-logo.png?fit=800%2C718&ssl=1" />
